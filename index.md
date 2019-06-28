@@ -1,3 +1,3 @@
-### Site under construction
+### Site under construction {align=center}
 
-Please check back soon
+Please check back soon {align=center}
