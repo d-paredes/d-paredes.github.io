@@ -1038,7 +1038,7 @@ body:not(.theme-preset-active) footer#colophon {
 }
 
 /* daps */
-footer{
+.mp-footer{
   height: 150px;
   background-color: #33333;
   color: #e9e9e9;
