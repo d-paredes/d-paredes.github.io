@@ -1041,5 +1041,5 @@ body:not(.theme-preset-active) footer#colophon {
 footer{
   height: 75px;
   background-color: #33333;
-  font-color: #393939;
+  color: #e9e9e9;
 }
