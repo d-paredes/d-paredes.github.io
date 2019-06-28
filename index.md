@@ -2,4 +2,4 @@
 
 Please check back soon {style=text-align:center}
 
-![coming-soon-construction-sign-roadsign](/assets/images/coming-soon-construction-sign-roadsign.jpg)
+![coming-soon-construction-sign-roadsign](/assets/images/coming-soon-construction-sign-roadsign.jpg =583x387)
