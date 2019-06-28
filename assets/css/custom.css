@@ -1049,7 +1049,11 @@ body:not(.theme-preset-active) footer#colophon {
   text-align: center;
 }
 .mp-header h1{
-  color: #e9e9e9;
+  color: #e9e9e9 !important;
+  text-decoration: none;
+}
+.mp-header > h1{
+  color: #e9e9e9 !important;
   text-decoration: none;
 }
 
