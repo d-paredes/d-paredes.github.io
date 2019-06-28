@@ -1036,3 +1036,10 @@ body:not(.theme-preset-active) footer#colophon {
     font-size: 75%;
   }
 }
+
+/* daps */
+footer{
+  height: 75px;
+  background-color: #33333;
+  font-color: #393939;
+}
