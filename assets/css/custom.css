@@ -1067,3 +1067,10 @@ body:not(.theme-preset-active) footer#colophon {
   padding-left: 20px;
   text-align: center;
 }
+
+.mp-content-holder
+{
+  background-color: #ffffff;
+  padding-top: 5px;
+  padding-top: 5px;
+}
